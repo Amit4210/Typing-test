@@ -23,7 +23,7 @@ Curses Module (Built-in on mac and linux, may need to install on Windows (pip in
 
 Open the folder in the terminal.
 
-Type python typingspeed.py to run the program in terminal.
+Type 'python typingspeed.py' to run the program in terminal.
 
 Press any key to start.
 
